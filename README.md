@@ -13,6 +13,7 @@ Yamin Barbosa;
 Matheus Gabriel
 
 Link para o framer: https://framer.com/share/Cachoeiras--itcbVQJszqyxKbW53j6m/EtmYk_avt
+Link vídeo da interação das telas:
 
 Instalação:
 Para instalar a aplicação basta procurar por "Cachoeiras App" na Play Store e seguir coma a instalação do aplicativo. Apó o download este já estará pronto para ser utilizado.
